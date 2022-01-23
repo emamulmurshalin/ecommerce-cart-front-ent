@@ -9,6 +9,6 @@ class FrontEndController extends Controller
 {
     public function productView()
     {
-        return 'Product show';
+        return view('ecommerce.recommended-product');
     }
 }
