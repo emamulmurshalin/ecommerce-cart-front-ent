@@ -23912,7 +23912,199 @@ var staticRenderFns = [
           staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
           staticStyle: { "text-align": "center", "padding-top": "5px" },
         },
-        [_c("span", [_vm._v("25")])]
+        [_c("span", [_vm._v("Stock out")])]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
+      ),
+    ])
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "row row-modify", staticStyle: { margin: "6px" } },
+      [
+        _c(
+          "div",
+          { staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6 product-tag" },
+          [_c("span", [_vm._v("Test")])]
+        ),
+        _vm._v(" "),
+        _c(
+          "div",
+          {
+            staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6 product-tag",
+            staticStyle: { background: "#2E4B71" },
+          },
+          [_c("span", { staticStyle: { color: "white" } }, [_vm._v("Test1")])]
+        ),
+      ]
+    )
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticStyle: { margin: "6px" } }, [
+      _c("span", { staticClass: "product-title" }, [_vm._v("Product name")]),
+    ])
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "row row-modify", staticStyle: { "margin-left": "2px" } },
+      [
+        _c("div", { staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6" }, [
+          _c("span", { staticClass: "product-unit" }, [_vm._v("500g/3,500$")]),
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-lg-5 col-md-5 col-sm-5 col-xs-5" }, [
+          _c("span", { staticClass: "product-unit" }, [_vm._v("10$/200g")]),
+        ]),
+      ]
+    )
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticStyle: { margin: "6px" } }, [
+      _c("span", { staticClass: "product-description" }, [
+        _vm._v(
+          "Lorem ipsum dolor sit amet, consectetur\n                adipiscing elit. Etiam velit dolor, sollicitudin ac purus id, semper\n                posuere libero. Aliquam a neque cursus, aliquet metus in, lobortis\n                turpis. Suspendisse egestas orci augue. Cras eleifend magna nec\n                nibh pharetra, quis efficitur orci aliquam. Nullam ullamcorper,\n                turpis in gravida auctor, felis augue volutpat augue.\n            "
+        ),
+      ]),
+    ])
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row row-modify product-cart" }, [
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
+          staticStyle: { "text-align": "center", "padding-top": "5px" },
+        },
+        [_c("span", [_vm._v("20")])]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
+      ),
+    ])
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "row row-modify", staticStyle: { margin: "6px" } },
+      [
+        _c(
+          "div",
+          { staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6 product-tag" },
+          [_c("span", [_vm._v("Test")])]
+        ),
+        _vm._v(" "),
+        _c(
+          "div",
+          {
+            staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6 product-tag",
+            staticStyle: { background: "#2E4B71" },
+          },
+          [_c("span", { staticStyle: { color: "white" } }, [_vm._v("Test1")])]
+        ),
+      ]
+    )
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticStyle: { margin: "6px" } }, [
+      _c("span", { staticClass: "product-title" }, [_vm._v("Product name")]),
+    ])
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "row row-modify", staticStyle: { "margin-left": "2px" } },
+      [
+        _c("div", { staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6" }, [
+          _c("span", { staticClass: "product-unit" }, [_vm._v("500g/3,500$")]),
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "col-lg-5 col-md-5 col-sm-5 col-xs-5" }, [
+          _c("span", { staticClass: "product-unit" }, [_vm._v("10$/200g")]),
+        ]),
+      ]
+    )
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticStyle: { margin: "6px" } }, [
+      _c("span", { staticClass: "product-description" }, [
+        _vm._v(
+          "Lorem ipsum dolor sit amet, consectetur\n                adipiscing elit. Etiam velit dolor, sollicitudin ac purus id, semper\n                posuere libero. Aliquam a neque cursus, aliquet metus in, lobortis\n                turpis. Suspendisse egestas orci augue. Cras eleifend magna nec\n                nibh pharetra, quis efficitur orci aliquam. Nullam ullamcorper,\n                turpis in gravida auctor, felis augue volutpat augue.\n            "
+        ),
+      ]),
+    ])
+  },
+  function () {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "row row-modify product-cart" }, [
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
+          staticStyle: { "text-align": "center", "padding-top": "5px" },
+        },
+        [_c("span", [_vm._v("42")])]
       ),
       _vm._v(" "),
       _c(
@@ -24104,7 +24296,7 @@ var staticRenderFns = [
           staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
           staticStyle: { "text-align": "center", "padding-top": "5px" },
         },
-        [_c("span", [_vm._v("25")])]
+        [_c("span", [_vm._v("Stock out")])]
       ),
       _vm._v(" "),
       _c(
@@ -24200,7 +24392,7 @@ var staticRenderFns = [
           staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
           staticStyle: { "text-align": "center", "padding-top": "5px" },
         },
-        [_c("span", [_vm._v("25")])]
+        [_c("span", [_vm._v("5")])]
       ),
       _vm._v(" "),
       _c(
@@ -24296,199 +24488,7 @@ var staticRenderFns = [
           staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
           staticStyle: { "text-align": "center", "padding-top": "5px" },
         },
-        [_c("span", [_vm._v("25")])]
-      ),
-      _vm._v(" "),
-      _c(
-        "div",
-        {
-          staticClass:
-            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
-        },
-        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
-      ),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "row row-modify", staticStyle: { margin: "6px" } },
-      [
-        _c(
-          "div",
-          { staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6 product-tag" },
-          [_c("span", [_vm._v("Test")])]
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6 product-tag",
-            staticStyle: { background: "#2E4B71" },
-          },
-          [_c("span", { staticStyle: { color: "white" } }, [_vm._v("Test1")])]
-        ),
-      ]
-    )
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticStyle: { margin: "6px" } }, [
-      _c("span", { staticClass: "product-title" }, [_vm._v("Product name")]),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "row row-modify", staticStyle: { "margin-left": "2px" } },
-      [
-        _c("div", { staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6" }, [
-          _c("span", { staticClass: "product-unit" }, [_vm._v("500g/3,500$")]),
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-5 col-md-5 col-sm-5 col-xs-5" }, [
-          _c("span", { staticClass: "product-unit" }, [_vm._v("10$/200g")]),
-        ]),
-      ]
-    )
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticStyle: { margin: "6px" } }, [
-      _c("span", { staticClass: "product-description" }, [
-        _vm._v(
-          "Lorem ipsum dolor sit amet, consectetur\n                adipiscing elit. Etiam velit dolor, sollicitudin ac purus id, semper\n                posuere libero. Aliquam a neque cursus, aliquet metus in, lobortis\n                turpis. Suspendisse egestas orci augue. Cras eleifend magna nec\n                nibh pharetra, quis efficitur orci aliquam. Nullam ullamcorper,\n                turpis in gravida auctor, felis augue volutpat augue.\n            "
-        ),
-      ]),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "row row-modify product-cart" }, [
-      _c(
-        "div",
-        {
-          staticClass:
-            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
-        },
-        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
-      ),
-      _vm._v(" "),
-      _c(
-        "div",
-        {
-          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
-          staticStyle: { "text-align": "center", "padding-top": "5px" },
-        },
-        [_c("span", [_vm._v("25")])]
-      ),
-      _vm._v(" "),
-      _c(
-        "div",
-        {
-          staticClass:
-            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
-        },
-        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
-      ),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "row row-modify", staticStyle: { margin: "6px" } },
-      [
-        _c(
-          "div",
-          { staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6 product-tag" },
-          [_c("span", [_vm._v("Test")])]
-        ),
-        _vm._v(" "),
-        _c(
-          "div",
-          {
-            staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6 product-tag",
-            staticStyle: { background: "#2E4B71" },
-          },
-          [_c("span", { staticStyle: { color: "white" } }, [_vm._v("Test1")])]
-        ),
-      ]
-    )
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticStyle: { margin: "6px" } }, [
-      _c("span", { staticClass: "product-title" }, [_vm._v("Product name")]),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "row row-modify", staticStyle: { "margin-left": "2px" } },
-      [
-        _c("div", { staticClass: "col-lg-6 col-md-6 col-sm-6 col-xs-6" }, [
-          _c("span", { staticClass: "product-unit" }, [_vm._v("500g/3,500$")]),
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-lg-5 col-md-5 col-sm-5 col-xs-5" }, [
-          _c("span", { staticClass: "product-unit" }, [_vm._v("10$/200g")]),
-        ]),
-      ]
-    )
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticStyle: { margin: "6px" } }, [
-      _c("span", { staticClass: "product-description" }, [
-        _vm._v(
-          "Lorem ipsum dolor sit amet, consectetur\n                adipiscing elit. Etiam velit dolor, sollicitudin ac purus id, semper\n                posuere libero. Aliquam a neque cursus, aliquet metus in, lobortis\n                turpis. Suspendisse egestas orci augue. Cras eleifend magna nec\n                nibh pharetra, quis efficitur orci aliquam. Nullam ullamcorper,\n                turpis in gravida auctor, felis augue volutpat augue.\n            "
-        ),
-      ]),
-    ])
-  },
-  function () {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "row row-modify product-cart" }, [
-      _c(
-        "div",
-        {
-          staticClass:
-            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
-        },
-        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
-      ),
-      _vm._v(" "),
-      _c(
-        "div",
-        {
-          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
-          staticStyle: { "text-align": "center", "padding-top": "5px" },
-        },
-        [_c("span", [_vm._v("25")])]
+        [_c("span", [_vm._v("31")])]
       ),
       _vm._v(" "),
       _c(

@@ -18,10 +18,15 @@
 
 <div id="mySidenav" class="sidenav">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-    <a href="#">About</a>
-    <a href="#">Services</a>
-    <a href="#">Clients</a>
+    <a href="#">Recommended Product</a>
+    <a href="#">New Product</a>
+    <a href="#">Product Area</a>
+    <a href="#">Purpose</a>
+    <a href="#">Cart View</a>
+    <a href="#">Order History</a>
+    <a href="#">Privacy Policy</a>
     <a href="#">Contact</a>
+    <a href="#">Logout</a>
 </div>
 
 <div id="app" class="main-content">
@@ -29,6 +34,10 @@
 </div>
 
 @include('layouts.includes.footer')
+
+<div>
+    <button style="background: #2E4B71; color: white;" type="button" class="btn btn-info btn-lg btn-block">Cart View</button>
+</div>
 
 <script src="{{ asset('js/app.js') }}"></script>
 

@@ -77,7 +77,7 @@
                     <i class="fa fa-minus icon-resize"></i>
                 </div>
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding" style="text-align: center; padding-top: 5px;">
-                    <span>25</span>
+                    <span>Stock out</span>
                 </div>
                 <div class="col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position">
                     <i class="fa fa-plus icon-resize"></i>
@@ -119,7 +119,7 @@
                     <i class="fa fa-minus icon-resize"></i>
                 </div>
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding" style="text-align: center; padding-top: 5px;">
-                    <span>25</span>
+                    <span>20</span>
                 </div>
                 <div class="col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position">
                     <i class="fa fa-plus icon-resize"></i>
@@ -161,7 +161,7 @@
                     <i class="fa fa-minus icon-resize"></i>
                 </div>
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding" style="text-align: center; padding-top: 5px;">
-                    <span>25</span>
+                    <span>42</span>
                 </div>
                 <div class="col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position">
                     <i class="fa fa-plus icon-resize"></i>
@@ -245,7 +245,7 @@
                     <i class="fa fa-minus icon-resize"></i>
                 </div>
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding" style="text-align: center; padding-top: 5px;">
-                    <span>25</span>
+                    <span>Stock out</span>
                 </div>
                 <div class="col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position">
                     <i class="fa fa-plus icon-resize"></i>
@@ -287,7 +287,7 @@
                     <i class="fa fa-minus icon-resize"></i>
                 </div>
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding" style="text-align: center; padding-top: 5px;">
-                    <span>25</span>
+                    <span>5</span>
                 </div>
                 <div class="col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position">
                     <i class="fa fa-plus icon-resize"></i>
@@ -329,7 +329,7 @@
                     <i class="fa fa-minus icon-resize"></i>
                 </div>
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding" style="text-align: center; padding-top: 5px;">
-                    <span>25</span>
+                    <span>31</span>
                 </div>
                 <div class="col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position">
                     <i class="fa fa-plus icon-resize"></i>
