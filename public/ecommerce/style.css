@@ -129,3 +129,11 @@ body {
 .row-modify{
     margin-right: 0px !important;
 }
+.icon-resize{
+    font-size: 30px;
+}
+.icon-position{
+    background: #2E4B71;
+    color: white;
+    text-align: center;
+}

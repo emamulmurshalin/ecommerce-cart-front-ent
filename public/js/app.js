@@ -23801,15 +23801,32 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row row-modify product-cart" }, [
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-2 col-xs-2" }, [
-        _c("i", { staticClass: "fa fa-minus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8" }),
+      _c(
+        "div",
+        {
+          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
+          staticStyle: { "text-align": "center", "padding-top": "5px" },
+        },
+        [_c("span", [_vm._v("25")])]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-2 col-xs-2" }, [
-        _c("i", { staticClass: "fa fa-plus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
+      ),
     ])
   },
   function () {
@@ -23880,15 +23897,32 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row row-modify product-cart" }, [
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-minus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-10 col-md-10 col-sm-10 col-xs-10" }),
+      _c(
+        "div",
+        {
+          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
+          staticStyle: { "text-align": "center", "padding-top": "5px" },
+        },
+        [_c("span", [_vm._v("25")])]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-plus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
+      ),
     ])
   },
   function () {
@@ -23959,15 +23993,32 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row row-modify product-cart" }, [
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-minus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-10 col-md-10 col-sm-10 col-xs-10" }),
+      _c(
+        "div",
+        {
+          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
+          staticStyle: { "text-align": "center", "padding-top": "5px" },
+        },
+        [_c("span", [_vm._v("25")])]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-plus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
+      ),
     ])
   },
   function () {
@@ -24038,15 +24089,32 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row row-modify product-cart" }, [
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-minus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-10 col-md-10 col-sm-10 col-xs-10" }),
+      _c(
+        "div",
+        {
+          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
+          staticStyle: { "text-align": "center", "padding-top": "5px" },
+        },
+        [_c("span", [_vm._v("25")])]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-plus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
+      ),
     ])
   },
   function () {
@@ -24117,15 +24185,32 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row row-modify product-cart" }, [
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-minus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-10 col-md-10 col-sm-10 col-xs-10" }),
+      _c(
+        "div",
+        {
+          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
+          staticStyle: { "text-align": "center", "padding-top": "5px" },
+        },
+        [_c("span", [_vm._v("25")])]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-plus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
+      ),
     ])
   },
   function () {
@@ -24196,15 +24281,32 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row row-modify product-cart" }, [
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-minus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-10 col-md-10 col-sm-10 col-xs-10" }),
+      _c(
+        "div",
+        {
+          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
+          staticStyle: { "text-align": "center", "padding-top": "5px" },
+        },
+        [_c("span", [_vm._v("25")])]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-plus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
+      ),
     ])
   },
   function () {
@@ -24275,15 +24377,32 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row row-modify product-cart" }, [
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-minus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-10 col-md-10 col-sm-10 col-xs-10" }),
+      _c(
+        "div",
+        {
+          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
+          staticStyle: { "text-align": "center", "padding-top": "5px" },
+        },
+        [_c("span", [_vm._v("25")])]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-plus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
+      ),
     ])
   },
   function () {
@@ -24354,15 +24473,32 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "row row-modify product-cart" }, [
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-minus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-minus icon-resize" })]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-10 col-md-10 col-sm-10 col-xs-10" }),
+      _c(
+        "div",
+        {
+          staticClass: "col-lg-10 col-md-10 col-sm-8 col-xs-8 grid-padding",
+          staticStyle: { "text-align": "center", "padding-top": "5px" },
+        },
+        [_c("span", [_vm._v("25")])]
+      ),
       _vm._v(" "),
-      _c("div", { staticClass: "col-lg-1 col-md-1 col-sm-1 col-xs-1" }, [
-        _c("i", { staticClass: "fa fa-plus-square" }),
-      ]),
+      _c(
+        "div",
+        {
+          staticClass:
+            "col-lg-1 col-md-1 col-sm-2 col-xs-2 grid-padding icon-position",
+        },
+        [_c("i", { staticClass: "fa fa-plus icon-resize" })]
+      ),
     ])
   },
 ]
