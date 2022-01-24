@@ -5,7 +5,7 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: #0112adba;
+    background-color: #2E4B71;
 }
 
 .topnav a {
@@ -102,4 +102,30 @@ body {
 .grid-padding{
     padding-right: 0px !important;
     padding-left: 0px !important;
+}
+.product-tag{
+    border: 1px solid #2E4B71;
+    padding: 4px !important;
+    text-align:center;
+}
+.product-title{
+    color: #2E4B71;
+    font-weight: bold;
+    font-size: 21px;
+}
+.product-unit{
+    color: #2E4B71;
+    font-weight: bold;
+    font-size: 18px;
+}
+.product-description{
+    color: #2E4B71;
+    font-size: 16px;
+}
+.product-cart{
+    margin: 6px;
+    border: 3px solid #2E4B71;
+}
+.row-modify{
+    margin-right: 0px !important;
 }
